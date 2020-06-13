@@ -1,7 +1,8 @@
 ### Fmovies
 ---
 https://ffmovies.to/
-https://Fmovies.to/film/
+
+https://Fmovies.to/
 
 
 
